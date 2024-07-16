@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavmodi-inventyv&label=Profile%20views&color=0e75b6&style=flat" alt="manavmodi-inventyv" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manavmodi-inventyv" alt="manavmodi-inventyv" /></a> </p>
-
 - 🔭 I’m currently working on **DevOps**
 
 <h3 align="left">Connect with me:</h3>
